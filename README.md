@@ -6,4 +6,4 @@ Im eloylp, a software developer in continuous learning :books: . I am currently 
 - 🌱 Learning Rust :crab: and blockchain :link:
 - :pen: Creating a tech blog (coming soon).
 - :eyes: Looking forward to collaborate in blockhain related projects.
-- :building_construction: Contributing in open source projects.
+- :building_construction: Contributing in open source.
