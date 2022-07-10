@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im eloylp, a self taught software developer. I am currently ...
+Im eloylp, a software developer in continuous learning :books: . I am currently ...
 
 - 🔭 Working on cloud software :cloud: written in Go.
 - 🌱 Learning Rust :crab: and blockchain :link:
